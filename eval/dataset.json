@@ -1,0 +1,12 @@
+[
+  {"query": "What is 25 * 4?", "expected": "100"},
+  {"query": "What is 10 + 15?", "expected": "25"},
+  {"query": "Tell me today's date", "expected": "202"},
+  {"query": "Search AI trends", "expected": "AI"},
+  {"query": "What is 7 * 8?", "expected": "56"},
+  {"query": "Find info about Python", "expected": "Python"},
+  {"query": "What is 50 - 20?", "expected": "30"},
+  {"query": "Current date please", "expected": "202"},
+  {"query": "Search machine learning", "expected": "learning"},
+  {"query": "What is 9 * 9?", "expected": "81"}
+]
